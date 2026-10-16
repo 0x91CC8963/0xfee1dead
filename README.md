@@ -3,15 +3,11 @@
 ---
 
 Compile it with:
-
-bash
 ```
 gcc feeldead.c -o feeldead
 ```
 
 Then run it as root:
-
-bash
 ```
 sudo ./feeldead
 ```
